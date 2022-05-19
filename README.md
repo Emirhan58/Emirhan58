@@ -125,7 +125,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Codewars" src="https://img.shields.io/badge/codewars%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>
+    <a href="#"><img alt = "Codewars" src="https://img.shields.io/badge/codewars%20-%231F8ACB.svg?style=plastic&logo=codewars&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
 
