@@ -8,9 +8,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Emirhan58&label=Profile%20views&color=0e75b6&style=plastic" alt="Emirhan58" /> 
-	<a href = "https://commits.top/turkey.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Emirhan58" target="_blank"/> 
-	</a>
 </p>
 
 
