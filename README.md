@@ -69,7 +69,7 @@
   </a> 
   &emsp;
   <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> 
-     <img alt="C#" src="https://img.shields.io/badge/c-sharp%20-%23F7DF1E.svg?style=plastic&logo=c-sharp&logoColor=black">
+     <img alt="C#" src="https://img.shields.io/badge/c-sharp%20-%23F7DF1E.svg?style=plastic&logo=c-sharp&logoColor=blue">
    </a>
   &emsp;
   <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank"> 
