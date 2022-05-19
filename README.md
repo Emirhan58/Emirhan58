@@ -38,7 +38,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="KayaJob@hotmail.com"><img img src="https://img.shields.io/badge/outlook-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="Outlook"/></a>
+	<a href="KayaJob@hotmail.com"><img img src="https://img.shields.io/badge/outlook-%23181717.svg?style=plastic&logo=outlook&logoColor=white" alt="Outlook"/></a>
 	<a href="https://github.com/Emirhan58"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/905530558258"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/emirhankaya/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
