@@ -36,7 +36,7 @@
 	<a href="https://www.codewars.com/users/Emirhan5834" ><img src="https://int4fc.com/wp-content/uploads/2018/03/INT-TipsTricks-Codewars.com_.jpg" alt="Codewars" width="100" height="50">
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## Connect with me
 <p align="center">
 	<a href="mailto:KayaJob@hotmail.com"><img img src="https://img.shields.io/badge/outlook-%231877F2.svg?style=plastic&logo=outlook&logoColor=white" alt="Outlook"/></a>
 	<a href="https://github.com/Emirhan58"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
