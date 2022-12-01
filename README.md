@@ -13,7 +13,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Student` at Faculty Of Computer & Information Sciences at Sakarya University
-- :trophy: `TEKNOFEST` Finalist 2021
+- :trophy: `TEKNOFEST` Finalist 2021 | Finalist 2022
 - :trophy: `CANSAT` Finalist 2022
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codewars`
@@ -34,6 +34,7 @@
 
 <p align="center">    
 	<a href="https://www.codewars.com/users/Emirhan5834" ><img src="https://int4fc.com/wp-content/uploads/2018/03/INT-TipsTricks-Codewars.com_.jpg" alt="Codewars" width="100" height="50">
+		<a href="https://leetcode.com/Emirhan58/"><img img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ## Connect with me
