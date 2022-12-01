@@ -33,8 +33,8 @@
 ## 👀 My Competitive Programming Profiles
 
 <p align="center">    
-	<a href="https://www.codewars.com/users/Emirhan5834" ><img src="https://int4fc.com/wp-content/uploads/2018/03/INT-TipsTricks-Codewars.com_.jpg" alt="Codewars" width="100" height="50">
-		<a href="https://leetcode.com/Emirhan58/"><img img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+	<a href="https://www.codewars.com/users/Emirhan5834" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars" width="100" height="50">
+		<a href="https://leetcode.com/Emirhan58/" target="_blank"><img img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ## Connect with me
