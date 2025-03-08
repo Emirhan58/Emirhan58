@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I `graduated` from the Faculty of Computer & Information Sciences at Sakarya University
+- :school: I `graduated` from the Faculty of Computer & Information Sciences at Sakarya University | June 2024
 - :trophy: `TEKNOFEST` Finalist 2021 | Finalist 2022
 - :trophy: `CANSAT` Finalist 2022
 - :technologist: I love using Software as a solution for every `Problem`
