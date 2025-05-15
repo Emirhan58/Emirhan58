@@ -18,7 +18,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1UUH5XN9sbyYmXxiCEhDfMeLt5PLIXZ2w/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/11MU-BPy1XUWUdQkMzF644xXIdQpz1G3e/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
